@@ -18,3 +18,11 @@
 .phpunit.result.cache
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
+
+###> mac files ###
+.idea
+###< mac files ###
+
+###> Symfony/migrations ###
+migrations
+###< Symfony/migrations ###
